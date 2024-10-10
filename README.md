@@ -33,4 +33,4 @@ This project is a Python script aimed at automatically logging into the Zara web
 
 1. **Depoyu klonlayın / Clone the repository:**
    ```bash
-   git clone https://github.com/kullanici_adiniz/zara-acc-checker.git
+   git clone https://github.com/moxeus1337/zara-acc-checker.git
